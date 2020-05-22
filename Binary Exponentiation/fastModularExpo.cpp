@@ -12,7 +12,6 @@
 #define mp make_pair
 #define fi first
 #define se second
-#define endl "\n"
 #define coutd(n) cout << fixed << setprecision(n)
 typedef long long ll;
 typedef double db;
